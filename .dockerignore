@@ -1,0 +1,6 @@
+.git
+.github
+readme.txt
+styles.html
+*.md
+.DS_Store
